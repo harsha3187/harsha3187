@@ -1,7 +1,7 @@
-# Hello World !!!!!
+### Hello World !!!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 # 💫 About Me:
-I am currently working as a Senior Data Scientist <br>I'm looking to collaborate on Machine Learning, Data Science, Deep Learning, Digital Transformation & Data Engineering projects .
+🔭 I am currently working as a Senior Data Scientist <br>🤝 I'm looking to collaborate on Machine Learning, Data Science, Deep Learning, Digital Transformation & Data Engineering projects .
 
 
 ## 🌐 Socials:
@@ -18,7 +18,7 @@ I am currently working as a Senior Data Scientist <br>I'm looking to collaborate
 ![](https://github-profile-trophy.vercel.app/?username=harsha3187&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ My Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harsha3187&limit=5&theme=alduin&combine_all_yearly_contributions=true)
