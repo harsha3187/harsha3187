@@ -1,7 +1,7 @@
 ### Hello World !!!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 # About Me:
-🔭 I am currently working as a Senior Data Scientist <br>🤝 I'm looking to collaborate on Machine Learning, Data Science, Deep Learning, Digital Transformation & Data Engineering projects .
+🔭 Working in Microsoft as a Senior Data Scientist <br>🤝 I'm looking to collaborate on Machine Learning, Data Science, Deep Learning, Digital Transformation & Data Engineering projects .
 
 
 ## 🌐 Socials:
